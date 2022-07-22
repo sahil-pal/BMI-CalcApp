@@ -14,6 +14,5 @@ BMI calculator App using Flutter
 
 
 ## How it looks like 
-## 1.
-![Simulator Screen Shot - iPhone 11 - 2022-03-11 at 12 16 32](https://user-images.githubusercontent.com/69889824/157816675-acbf7554-5512-4326-9986-4a00c4c446f2.png)
 
+<img src="https://user-images.githubusercontent.com/69889824/157816675-acbf7554-5512-4326-9986-4a00c4c446f2.png" width="300" height="650">
